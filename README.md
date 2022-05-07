@@ -25,7 +25,7 @@
  2. - mobile: Flutter e Java;
  3. - desktop: Delphi e Flutter;
 - 😉 Sou responsável por projetos de TI na empresa em que trabalho.
-- 😁 Atualmente desenvolvo trabalhos como freelancer em Flutter, PHP, Java e Delphi.
+- 😁 Freelancer em Flutter, PHP, Java e Delphi.
 - 😎 Gosto de e-sports, Linux e Hacking.
 
 
