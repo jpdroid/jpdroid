@@ -22,7 +22,7 @@
 ## Olá, eu sou o João Paulo
 ### Desenvolvedor 
  1. - back-end: Java, PHP e Javascript;
- 2. - mobile: Flutter e Java;
+ 2. - mobile: Flutter e Nativo;
  3. - desktop: Delphi e Flutter;
 - 😉 Sou responsável por projetos de TI na empresa em que trabalho.
 - 😁 Freelancer em Flutter, PHP, Java e Delphi.
